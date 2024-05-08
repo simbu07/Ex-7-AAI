@@ -1,8 +1,9 @@
-<H3>NAME:Silambarasan K</H3>
-<H3>REGISTER NUMBER:212221230101</H3>
-<H3>EX. NO.7</H3>
-<H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
-<H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
+<H2  ALIGN =CENTER>Implementation of Text  Summarization</H2>
+<H4>NAME:Silambarasan K</H4>
+<H4>REGISTER NUMBER:212221230101</H4>
+<h4>Date: 22/03/2024</h4>
+<H3>Aim:</H3> 
+<p></p>to perform automatic text summarization using Natural Language Processing (NLP) techniques. </p> 
  <BR>
 <h3>Algorithm:</h3>
 Step 1 Import necessary libraries for natural language processing tasks.<BR>
@@ -74,12 +75,10 @@ print(summary)
 
 <H3>Output</H3>
 
-![](https://github.com/Prethiveerajan/Ex-7-AAI/assets/94233064/c5f23f3e-f853-4bad-8546-a9f1a07b3a1e)
-
-
+<img src="https://github.com/Prethiveerajan/Ex-7-AAI/assets/94233064/c5f23f3e-f853-4bad-8546-a9f1a07b3a1e">
 
 <H3>Result:</H3>
 Thus ,the program to perform the Text summarization is executed sucessfully.
 
 
-](https://github.com/Aadheeshwar-AIDS/Ex-6--AAI.git)
+![](https://github.com/Aadheeshwar-AIDS/Ex-6--AAI.git)
