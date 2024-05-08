@@ -1,4 +1,4 @@
-<H2  ALIGN =CENTER>Implementation of Text  Summarization</H2>
+<H2  ALIGN =CENTER>EX-7 Implementation of Text  Summarization</H2>
 <H4>NAME:Silambarasan K</H4>
 <H4>REGISTER NUMBER:212221230101</H4>
 <h4>Date: 22/03/2024</h4>
