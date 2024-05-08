@@ -1,7 +1,7 @@
 <H2  ALIGN =CENTER>EX-7 Implementation of Text  Summarization</H2>
 <H4>NAME:Silambarasan K</H4>
 <H4>REGISTER NUMBER:212221230101</H4>
-<h4>Date: 22/03/2024</h4>
+<h4>Date: 27/04/2024</h4>
 <H3>Aim:</H3> 
 <p></p>to perform automatic text summarization using Natural Language Processing (NLP) techniques. </p> 
  <BR>
